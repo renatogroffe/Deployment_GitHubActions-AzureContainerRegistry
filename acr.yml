@@ -1,4 +1,4 @@
-name: Docker Image CI + Azure Container Registry
+name: Azure Container Registry
 
 on:
   push:
